@@ -1,0 +1,36 @@
+[window]
+opacity = 0.1
+padding = { x = 12, y = 12 }
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#002b4d' 
+
+[colors.normal]
+black   = '#000000'
+red     = '#cc241d'
+green   = '#427b58'
+yellow  = '#af3a03'
+blue    = '#000000' 
+magenta = '#8f3f71'
+cyan    = '#076678' 
+white   = '#7c6f64'
+
+[colors.bright]
+black   = '#928374'
+red     = '#fb4934'
+green   = '#b8bb26'
+yellow  = '#fabd2f'
+blue    = '#005577' 
+magenta = '#d3869b'
+cyan    = '#8ec07c'
+white   = '#ebdbb2'
+
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
+
+[colors.cursor]
+text = '#ffffff'
+cursor = '#00afff'
+
