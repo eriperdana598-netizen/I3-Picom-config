@@ -1,4 +1,3 @@
-# My i3 + Picom Config
+#🔊757 My i3 + Picom Config
 
 ![My Desktop](./Rice.png)
-hp
